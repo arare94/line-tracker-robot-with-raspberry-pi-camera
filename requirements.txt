@@ -1,0 +1,5 @@
+imutils==0.5.2
+numpy==1.16.3
+Pillow==4.0.0
+RPi.GPIO==0.6.5
+cv2==3.3.0
