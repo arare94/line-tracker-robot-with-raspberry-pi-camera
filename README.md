@@ -8,3 +8,5 @@ This is the parts which we used
   4. L298 motor shield
   5. Male to male jumper wires
   6. 2 or 4 DC motors
+
+![Image description](scheme.png)
